@@ -1,4 +1,4 @@
-# 🤖 AI Quantitative Research System
+# 🤖 AI Quantitative Research System: A Multi-Agent Framework for Stock Price Direction Prediction
 
 A production-grade, multi-agent machine learning platform that predicts the next-day directional movement of US equity prices. The system covers the full quantitative research lifecycle — from raw data ingestion through model deployment — and is structured as a reusable Python package refactored from a 41-cell Google Colab notebook.
 ---
